@@ -15,7 +15,7 @@
 My name is Sereivathna, a Sofftware Engineering student at Kirirom Insstitute of Technology. 
 Currently, I am planning to build some small projects and exploring the world of AI.
 
-💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 <!-- Standard Tech -->
@@ -26,5 +26,14 @@ Currently, I am planning to build some small projects and exploring the world of
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <!-- Custom / Special Tech -->   <img src="https://img.shields.io/badge/Antigravity-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lovable-E61363?style=for-the-badge&logo=lovable&logoColor=white"/>
 </p>
+
+# 📊 GitHub Stats
+
+<!-- Replace 'YOUR_USERNAME' with your actual GitHub username --> <p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=vathna-elsfi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=FF69B4&icon_color=FF1493&text_color=ffffff"/>
+  <img src="https://streak-stats.demolab.com/?user=vathna-elsfi&theme=radical&hide_border=false&ring=FF69B4&fire=FF1493&currStreakLabel=ffffff"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vathna-elsfi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=FF69B4&text_color=ffffff"/>
+</p>
+
 
 
