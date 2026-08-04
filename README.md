@@ -37,7 +37,15 @@ Currently, I am planning to build some small projects and exploring the world of
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vathna-elsfi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=FF69B4&text_color=ffffff"/>
 </p>
 
-#🤝 Connect With Me
+# 📈 Commit Activity Graph
+
+<!-- Replace 'YOUR_USERNAME' with your actual GitHub username --> <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vathna-elsfi&theme=radical&hide_border=false&area=true&radius=20&line=FF69B4&color=FF1493&point=ffffff&bg_color=0D1117&custom_title=Commit%20Activity%20Graph"/>
+</p>
+
+
+
+# 🤝 Connect With Me
 
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
