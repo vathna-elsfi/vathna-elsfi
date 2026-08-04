@@ -12,8 +12,11 @@
 </p>
 
 #  🌸 About Me
-My name is Sereivathna, a Sofftware Engineering student at Kirirom Insstitute of Technology. 
-Currently, I am planning to build some small projects and exploring the world of AI.
+My name is Sereivathna, a Software Engineering student at Kirirom Institute of Technology. I love building small project and exploring the world of AI.
+
+Beyond coding, I bring unique problem-solving and leadership experiences to my work:
+* 📊 EX-Student Council Treasurer
+* 🤝 EX-Red Cross Cambodia volunteer for 5 years.
 
 # 💻 Tech Stack
 
