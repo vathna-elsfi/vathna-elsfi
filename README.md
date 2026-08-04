@@ -3,6 +3,14 @@
 <!--
 **vathna-elsfi/vathna-elsfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- GitHub Profile README Template --> <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF1493&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p> <!-- Typing Effect Banner --> <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=a+coffee+a+day,+keep+a+crash-out+session+away."/>
+  </a>
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
