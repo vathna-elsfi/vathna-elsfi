@@ -32,7 +32,7 @@ Beyond coding, I bring unique problem-solving and leadership experiences to my w
 </p>
 
 # 🧚🏼‍♀️ AI & Tooling
-< p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Antigravity-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lovable-E61363?style=for-the-badge&logo=lovable&logoColor=white"/>
 </p>
