@@ -15,8 +15,12 @@
 My name is Sereivathna, a Software Engineering student at Kirirom Institute of Technology. I love building small project and exploring the world of AI.
 
 Beyond coding, I bring unique problem-solving and leadership experiences to my work:
+* 🤵‍♀️ Part of Planning Team for Event Nexus Club
+* 👩‍💻 Member of KIT Game Dev
+* 🎥 Part of Content Creation Team for KIT 
 * 📊 EX-Student Council Treasurer
 * 🤝 EX-Red Cross Cambodia volunteer for 5 years.
+  
 
 # 💻 Tech Stack
 
